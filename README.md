@@ -1,6 +1,7 @@
 # Kerberos Estética Vehicular — sitio de demostración
 
 Sitio estático (HTML, CSS y JavaScript sin dependencias) para un local de insumos para el detallado vehicular.
+![Pantalla de inicio](assets/inicio.jpeg)
 
 **Aclaración:** es un proyecto de demostración. Fue desarrollado como propuesta y el cliente no llegó a concretar el trabajo. Los datos de contacto, productos y precios son de ejemplo.
 
